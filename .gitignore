@@ -8,5 +8,5 @@ __pycache__/
 
 # Distribution / packaging
 .vscode
-/Object_to_Json/env
+/Object_to_Json/.env
 
